@@ -13,6 +13,6 @@ Nesta seção é possível configurar o avatar, lado, mensagens e opções que i
 ![image](https://user-images.githubusercontent.com/78874946/215841322-0f15fb1d-3246-4bd8-bc11-b459355e63f0.png)
 
 
-### 3º - Copie o script gerado na subseção "Implantação" e solicite ao desenvolvedor do site que o instale antes do elemento ```</body>```</br>
+### 3º - Copie o script gerado na subseção "Implantação" e envie ao ao desenvolvedor do site, e soliciteque o instale antes do elemento ```</body>```</br>
 
 ![image](https://user-images.githubusercontent.com/78874946/215843480-d04257e9-3648-44aa-9c81-814665bef7b2.png)
