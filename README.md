@@ -2,25 +2,20 @@
 
 Veja abaixo os passos necessários utilizar o chatbot do Imoview.
 
-### 1º - Importação estilização CSS
+### 1º - Faça login em sistema Imoview e clique em configurações
 
-Inserir entre as tags **HEAD** o arquivo de estilização do chatbot
+Link para acessar seu sistema, https://app.imoview.com.br/.
 
 Exemplo:
 
-```html {.line-numbers}
-<link rel="stylesheet" type="text/css" href="https://api.imoview.com.br/scripts/externo/chatbot/chatbot.css"/>
-```
+### 2º - Vá até a seção de chatbot(aba CRM)
 
-### 2º - Importação arquivos javascript e execução do chatbot
+Nesta seção é possível configurar o avatar, lado, mensagens e opções que irá aparecer no chatbot em seu site.
 
-Copie e cole a linha abaixo em entre as tags **BODY**</br>
+![image](https://user-images.githubusercontent.com/78874946/215841322-0f15fb1d-3246-4bd8-bc11-b459355e63f0.png)
 
-```html {.line-numbers}
-<script src="https://api.imoview.com.br/scripts/externo/chatbot/chatbot-imoview.js" type="text/javascript"></script>
-```
 
-### 3º - Copie e cole o código abaixo, após a importação do aquivo acima(é necessário informar alguns dados)</br>
+### 3º - Copie o script gerado na subseção "Implantação" e solicite ao desenvolvedor do site que instale antes do elemento ```</body>```</br>
 
 Exemplo:
 
