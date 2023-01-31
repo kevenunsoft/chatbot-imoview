@@ -9,7 +9,7 @@ Link para acessar seu sistema: https://app.imoview.com.br/.
 ### 2º - Em configuração, vá até a seção de chatbot(aba CRM)
 
 Nesta seção é possível configurar o avatar, lado, mensagens e opções que irá aparecer no chatbot em seu site, ao alterar os dados, não esqueça de clicar em salvar.
-Link: https://app.imoview.com.br/Configuracao/
+</br>Link: https://app.imoview.com.br/Configuracao/
 
 ![image](https://user-images.githubusercontent.com/78874946/215841322-0f15fb1d-3246-4bd8-bc11-b459355e63f0.png)
 
